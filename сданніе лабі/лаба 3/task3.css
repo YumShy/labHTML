@@ -1,0 +1,6 @@
+tr:nth-of-type(2n){
+ background:#BCE0EF;
+}
+td:nth-of-type(2n+3){
+ background:#EBEBD2;
+}

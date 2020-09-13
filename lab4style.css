@@ -1,0 +1,58 @@
+body{
+margin: 0 25% 0 25% ;
+  width: 50%;
+}
+
+.sivtsev{
+  color: transparent;
+		text-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+		font-size: 62px;
+		-webkit-transition: text-shadow 2.0 ease-out;
+     font-family: Arial;
+     text-align-last: justify; /* что использовать вместо, чтобы заработало?*/
+}
+
+
+.sight01{
+  font-size:100px;
+}
+.sight02{
+  font-size:90px;
+}
+.sight03{
+  font-size:70px;
+}
+.sight04{
+  font-size:60px;
+}
+.sight05{
+  font-size:50px;
+}
+.sight06{
+  font-size:40px;
+}
+.sight07{
+  font-size:30px;
+}
+.sight08{
+  font-size:25px;
+}
+.sight09{
+  font-size:20px;
+}
+.sight10{
+  font-size:16px;
+}
+.sight15{
+  font-size:10px;
+}
+.sight20{
+  font-size:5px;
+}
+
+.uline {
+  background-color: red;
+  width: auto;
+  height: 1px;
+  -webkit-filter: blur(2px);
+}
